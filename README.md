@@ -1,2 +1,2 @@
 # csszengarden
-http://uttammahat.github.io/csszengarden
+https://uttammahat.github.io/csszengarden/
